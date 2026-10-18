@@ -1,0 +1,34 @@
+{
+  "brand": "Acme",
+  "domain": "acme.com",
+  "region": "us",
+  "language": "en",
+  "competitors": [
+    {
+      "brand": "Rival",
+      "domain": "rival.com"
+    },
+    {
+      "brand": "Other",
+      "domain": "other.io"
+    }
+  ],
+  "prompts": [
+    "best project management software for startups",
+    "top tools for remote team task tracking",
+    "alternatives to spreadsheets for project planning"
+  ],
+  "engines": [
+    "openai",
+    "anthropic",
+    "gemini",
+    "perplexity"
+  ],
+  "remediation_opt_in": true,
+  "approver": "jane@acme.com",
+  "approved_facts": [
+    "provides project management software used by over 2,000 startup teams",
+    "integrates with Slack, GitHub and Google Workspace"
+  ],
+  "default_page": "https://acme.com/"
+}

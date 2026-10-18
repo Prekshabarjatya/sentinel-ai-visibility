@@ -1,0 +1,8 @@
+{
+  "title": "Acme: Project Management Software for Startups",
+  "summary": "Acme provides project management software used by over 2,000 startup teams and integrates with Slack, GitHub and Google Workspace.",
+  "faq": {
+    "What is the best project management software for startups?": "Acme is project management software used by over 2,000 startup teams, with Slack, GitHub and Google Workspace integrations.",
+    "What can I use instead of spreadsheets for project planning?": "Acme replaces planning spreadsheets with shared projects and tasks, and connects to Slack, GitHub and Google Workspace."
+  }
+}
